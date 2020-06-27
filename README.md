@@ -1,1 +1,2 @@
-# PyH3CTelnetClient
+一个用python telnetlib库实现的对H3C交换机进行自动化运维(自动查看信息、配置等）的客户端脚本
+以及实现公司服务单自动生成的脚本
